@@ -1,5 +1,3 @@
-array = []
-
 def my_each(array)
 
 yield
