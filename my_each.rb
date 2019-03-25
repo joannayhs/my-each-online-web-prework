@@ -1,3 +1,6 @@
-def my_each # put argument(s) here
-  # code here
+array = []
+
+def my_each(array)
+
+yield
 end
